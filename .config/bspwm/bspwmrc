@@ -2,15 +2,15 @@
 
 #АВТОСТАРТ
 sxhkd &
-nm-applet &
 numlockx &
 nitrogen --restore &
 picom &
 xsetroot -cursor_name left_ptr &
-firefox &
-dunst &
 polybar &
-blueman-manager &
+firefox &
+#dunst &
+#nm-applet &
+#blueman-manager &
 
 
 #ВОРКСПЕЙСЫ
