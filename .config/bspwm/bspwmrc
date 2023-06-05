@@ -2,16 +2,15 @@
 
 #АВТОСТАРТ
 sxhkd &
-xsetroot -cursor_name left_ptr &
-xrandr -s 1920x1080 &
-nitrogen --restore &
-polybar &
-firefox &
 nm-applet &
-
-#numlockx &
-#~/.config/polybar/launch.sh
-#picom &
+numlockx &
+nitrogen --restore &
+picom &
+xsetroot -cursor_name left_ptr &
+firefox &
+dunst &
+polybar &
+blueman-manager &
 
 
 #ВОРКСПЕЙСЫ
@@ -57,8 +56,3 @@ bspc config paddingless_monocle	 true
 bspc rule -a firefox desktop='^1'
 bspc rule -a TelegramDesktop state=floating follow=off desktop='4^'
 bspc rule -a nitrogen state=floating follow=off 
-#bspc rule -a Lutris state=floating follow=off rectangle=1200x700+360+190 desktop='^6' 
-#bspc rule -a mpv state=floating rectangle=800x450+560+315 follow=off
-#bspc rule -a Media viewer rectangle=1350x900+285+90 state=floating
-#bspc rule -a Inkscape desktop='^3'
-#bspc rule -a Blender desktop='^2'
