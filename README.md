@@ -1,3 +1,12 @@
+## GALLERY
+<img src="https://raw.githubusercontent.com/dolg-off/bspwm_dotfiles/main/screenshot/1.png" width="330" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/bspwm_dotfiles/main/screenshot/6.png" width="330" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/bspwm_dotfiles/main/screenshot/8.png" width="330" lign="center">
+
+<img src="https://raw.githubusercontent.com/dolg-off/bspwm_dotfiles/main/screenshot/9.png" width="330" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/bspwm_dotfiles/main/screenshot/2.png" width="330" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/bspwm_dotfiles/main/screenshot/4.png" width="330" lign="center"> 
+
+<img src="https://raw.githubusercontent.com/dolg-off/bspwm_dotfiles/main/screenshot/3.png" width="330" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/bspwm_dotfiles/main/screenshot/5.png" width="330" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/bspwm_dotfiles/main/screenshot/7.png" width="330" lign="center"> 
+
+
+
 
 ## INFO
 |DIstro|[Artix](https://artixlinux.org/)|
