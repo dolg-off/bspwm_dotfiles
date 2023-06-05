@@ -13,3 +13,4 @@ case "$chosen" in
 	"") bspc quit ;;
 	*) exit 1 ;;
 esac
+

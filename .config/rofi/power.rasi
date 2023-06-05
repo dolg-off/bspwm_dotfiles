@@ -5,9 +5,9 @@ configuration {
 @import "config.rasi"
 
 window {
-	width: 340px;
+	width: 372px;
         border-radius: 0;
-        border: 3;
+        border: 2;
 	padding: 0;
 	border-color: @accent;
 }
