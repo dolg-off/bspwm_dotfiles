@@ -34,6 +34,7 @@
 |Picom|[yshui](https://github.com/yshui/picom)|
 |FireFox|[Mocha - Mauve](https://addons.mozilla.org/ru/firefox/addon/catppuccin-mocha-mauve-git/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)|
 |Launcher|[Rofi](https://github.com/davatorium/rofi)| 
+|Telegram|[Mocha](https://t.me/addtheme/ctp_mocha)| 
 ## SOFT 
 
 ```bash
