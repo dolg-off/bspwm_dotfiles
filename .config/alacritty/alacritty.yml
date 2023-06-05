@@ -2,7 +2,7 @@
       padding:
         x: 15
         y: 15
-      opacity: 1.0
+      opacity: 0.9
 
     scrolling:
       history: 100
